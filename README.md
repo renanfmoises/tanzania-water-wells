@@ -1,3 +1,7 @@
+<picture>
+<img src="/images/tanzania-water-wells.png" width="1000">
+</picture>
+
 # Pump it up: Data Mining the Water Table
 <small>Competition hosted by [DrivenData](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/).</small>
 
