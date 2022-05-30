@@ -1,5 +1,5 @@
 <picture>
-<img src="/images/tanzania-water-wells.png" width="1000">
+   <img src="/images/tanzania-water-wells.png" width="1000">
 </picture>
 
 # Pump it up: Data Mining the Water Table
